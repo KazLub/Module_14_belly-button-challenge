@@ -25,7 +25,7 @@ function DropDownFunction() {
 }
 
 
-// CHARTS - UPDATE
+// CHARTS-UPDATE
 function DemoInfo(subject) {
 
     // DEMOGRAPHIC INFO-PANEL
@@ -91,7 +91,7 @@ function Graphs(subject, samples) {
    
     Plotly.newPlot("bar", dataBar, layoutBar);
 
-    // Bubble Chart //
+    // BUBBLE CHART //
     
    
     let traceBubble = {
